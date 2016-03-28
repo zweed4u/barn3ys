@@ -1,7 +1,6 @@
 <?php
 
-
-$keywords = 'adidas';
+$keywords = 'SNEAKER_NAME_HERE';
 $from     = 504306160;
 $to       = 504999999;
 
